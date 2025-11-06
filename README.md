@@ -28,9 +28,9 @@
 
 <p align="center">
   <!-- STATS CARD -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bowenchen7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
   <!-- LANGUAGES CARD -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bowenchen7&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
@@ -38,7 +38,7 @@
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bowenchen7&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ### 🧬 Contribution Galaxy
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bowenchen7&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
