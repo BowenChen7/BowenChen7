@@ -37,7 +37,9 @@
 
 ### 🔥 Contribution Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=bowenchen-work&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bowenchen-work&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
